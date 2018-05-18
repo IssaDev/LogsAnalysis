@@ -1,8 +1,8 @@
 # Logs Analysis
 This program generate a report from the database of a news website, the report generated answers the following questions
- What are the most popular three articles of all time?
- Who are the most popular article authors of all time?
- On which days did more than 1% of requests lead to errors?
+ * What are the most popular three articles of all time?
+ * Who are the most popular article authors of all time?
+ * On which days did more than 1% of requests lead to errors?
 ## Requirements
 A version of python is required for this code to run, if you do not have python installed on your computer follow the link below to install.
 https://www.python.org/downloads/
